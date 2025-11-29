@@ -6,7 +6,7 @@
 
 A card battle game based on Kards, where players command military units to battle on a strategic map.
 
-**👉 Live Site:** https://yourusername.github.io/repository_name
+**👉 Live Site:** https://susu-lisu.github.io/Web-I---Final-Project-2025/
 
 ## Resources 🔗
 
