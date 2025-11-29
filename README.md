@@ -16,7 +16,7 @@ API:
 
 Design Plans:
 
-- [Figma](https://www.figma.com/design/NXR0qEVrwivwYAJ2JkItaT/Web-1-Design---December-2025?node-id=19-1074&p=f&t=3sb3lMAEUu9vb9zz-0)
+- [Figma](https://www.figma.com/design/NXR0qEVrwivwYAJ2JkItaT/Web-1-Design---December-2025?node-id=19-1074&m=dev&t=3sb3lMAEUu9vb9zz-1)
 
 Additional Resources:
 
